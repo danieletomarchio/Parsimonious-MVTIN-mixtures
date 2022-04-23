@@ -1,4 +1,4 @@
-# Parsimonious-MVTIN-mixtures
+# Parsimonious MVTIN and MVN mixtures
 This repository contains the code for fitting 196 parsimonious mixtures of MVTIN and MVN distributions.
 In the following you can find a description of the functions (and their arguments) contained in the Functions.R file.
 
